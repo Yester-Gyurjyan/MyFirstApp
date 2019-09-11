@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="start">Start</string>
+    <string name="text1">Age Face</string>
+    <string name="text2">Photo Editor</string>
+    <string name="text">Age Face Photo Editor</string>
+    <string name="title">Editor</string>
+
+
+</resources>
